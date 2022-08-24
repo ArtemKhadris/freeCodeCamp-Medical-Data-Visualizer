@@ -6,7 +6,7 @@ Solution of freeCodeCamp problem.
 
 My solution: 
 
-
+[![Run on Repl.it](https://replit.com/badge/github/ArtemKhadris/freeCodeCamp-Medical-Data-Visualizer)](https://replit.com/new/github/ArtemKhadris/freeCodeCamp-Medical-Data-Visualizer)
 
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
 
