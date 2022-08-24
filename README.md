@@ -8,6 +8,11 @@ My solution:
 
 [![Run on Repl.it](https://replit.com/badge/github/ArtemKhadris/freeCodeCamp-Medical-Data-Visualizer)](https://replit.com/new/github/ArtemKhadris/freeCodeCamp-Medical-Data-Visualizer)
 
+Plot results:
+![heatmap](https://user-images.githubusercontent.com/106828028/186507153-cff03e43-ee92-40bd-93a0-445f3a45e4ff.png)
+![catplot](https://user-images.githubusercontent.com/106828028/186507257-f5b5ea5a-2fc0-422c-8cf0-b255d24a4a80.png)
+
+
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
 
 #### Data description
